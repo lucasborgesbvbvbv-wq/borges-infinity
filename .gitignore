@@ -1,0 +1,5 @@
+.vercel/
+.env
+.env.*
+*.zip
+node_modules/
